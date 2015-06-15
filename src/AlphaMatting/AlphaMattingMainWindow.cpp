@@ -37,7 +37,7 @@ void AlphaMattingMainWindow::aboutDialogShow()
 		"<p><p>" \
 		"<br>   [1] K. He, C. Rhemann, C. Rother, X. Tang, J. Sun, A Global Sampling Method for Alpha Matting, CVPR, 2011. <br>" \
 		"<br>   [2] C. Tomasi and R. Manduchi, Bilateral Filtering for Gray and Color Images, Proc.IEEE Intel Computer Vision Conference, 1998. <br>" \
-		"<br>   [2] K.He, J.Sun, and X.Tang, Guided Image Filtering,  Proc. European Conf.Computer Vision, pp. 1 - 14, 2010. <br>" \
+		"<br>   [3] K.He, J.Sun, and X.Tang, Guided Image Filtering,  Proc. European Conf.Computer Vision, pp. 1 - 14, 2010. <br>" \
 		"<p><p><p>" \
 		"<p>Developed by: Diego Mazala, June-2015" \
 		"<p>");

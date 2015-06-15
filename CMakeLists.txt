@@ -4,7 +4,7 @@ cmake_minimum_required (VERSION 3.0 FATAL_ERROR)
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
 
-project      (ImgProc)
+project      (AlphaMatting)
 
 set ( PROJECT_ROOT_DIR "${CMAKE_CURRENT_SOURCE_DIR}")
 set ( PROJECT_SOURCE_DIR "${PROJECT_ROOT_DIR}/src")
